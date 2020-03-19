@@ -28,3 +28,17 @@ The second center tag contains href for different options of information the use
 
 The main tags are then all closed. Finishing with /html tag.
 
+4) hn.js:
+news.css:
+
+5) 7 resurces where downloaded.
+ 	--> news.ycombinator.com: Type: document, Request Method: GET, Status Code: 200 OK
+	--> news.css?FipHmofufc0acGUN2LQH: Type: stylesheet, Request Method: GET, Status Code: 200 OK
+	--> Y18.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	--> s.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	--> hn.js?FipHmofufc0acGUN2LQH: Type: script, Request Method: GET, Status Code: 200 OK (from disk cache)
+	--> grayarrow.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	--> favicon.ico: Type: x-icon, Request Method: GET, Status Code: 200 OK 
+
+
+
