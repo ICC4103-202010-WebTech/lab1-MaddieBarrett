@@ -1,8 +1,12 @@
 3) It begins with html op="news", this tag is used to wrap all the code (HTML root element).
 Then comes the head, which cointains diffrent tags inside:
- --> meta : this tag provides metadata about the document with is not diplayed, but can be read by the machine. For example here they edited the viewport, which controls the page dimension and scaling.
- --> link : this tag specifies de relationship between the actual document and an external source. Here href specifies the URL and rel specifies the relationship of the document with the actual document. Type is used to define de type of content. 
- --> title : element to define the title of the document
+
+ a) meta : this tag provides metadata about the document with is not diplayed, but can be read by the machine. For example here they edited the viewport, which controls the page dimension and scaling.
+ 
+ b) link : this tag specifies de relationship between the actual document and an external source. Here href specifies the URL and rel specifies the relationship of the document with the actual document. Type is used to define de type of content. 
+ 
+ c)title : element to define the title of the document
+
 Then comes the body, where all the data of the web page is enclosed. Here is where all the content is.
 Inside the body the is the tag center, used to set the align of test into the center.
 Inside the tag center, comes the tag table which defines an HTML table, inside of the tag there are different atributes (the id, the border to specify there are no borders around the table cells, the cellpadding, cellspacing, the width of the table, and the color of the background with bgcolor).
@@ -28,17 +32,24 @@ The second center tag contains href for different options of information the use
 
 The main tags are then all closed. Finishing with /html tag.
 
-4) hn.js:
-news.css:
+4) hn.js: This file's porpouse is to define the functions of the website. For example, if the user clicks then there is a function that defines what the output should be.
+news.css: This file's poprpouse is to define how the web site looks, the asthetic. For example, it gives the font for the lettering, colors, the width ann length for difrent objects, etc.
 
-5) 7 resurces where downloaded. \n
- 	--> news.ycombinator.com: Type: document, Request Method: GET, Status Code: 200 OK
-	--> news.css?FipHmofufc0acGUN2LQH: Type: stylesheet, Request Method: GET, Status Code: 200 OK
-	--> Y18.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
-	--> s.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
-	--> hn.js?FipHmofufc0acGUN2LQH: Type: script, Request Method: GET, Status Code: 200 OK (from disk cache)
-	--> grayarrow.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
-	--> favicon.ico: Type: x-icon, Request Method: GET, Status Code: 200 OK 
+5) 7 resurces where downloaded.
+
+--> news.ycombinator.com: Type: document, Request Method: GET, Status Code: 200 OK
+	
+--> news.css?FipHmofufc0acGUN2LQH: Type: stylesheet, Request Method: GET, Status Code: 200 OK
+	
+--> Y18.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	
+--> s.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	
+--> hn.js?FipHmofufc0acGUN2LQH: Type: script, Request Method: GET, Status Code: 200 OK (from disk cache)
+	
+--> grayarrow.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
+	
+--> favicon.ico: Type: x-icon, Request Method: GET, Status Code: 200 OK 
 
 
 
