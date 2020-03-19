@@ -33,6 +33,7 @@ The second "center" tag contains "href" for different options of information the
 The main tags are then all closed. Finishing with "/html" tag.
 
 4) hn.js: This file's porpouse is to define the functions of the website. For example, if the user clicks then there is a function that defines what the output should be.
+
 news.css: This file's poprpouse is to define how the web site looks, the asthetic. For example, it gives the font for the lettering, colors, the width ann length for difrent objects, etc.
 
 5) 7 resurces where downloaded.
