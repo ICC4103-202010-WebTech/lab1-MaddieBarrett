@@ -31,7 +31,7 @@ The main tags are then all closed. Finishing with /html tag.
 4) hn.js:
 news.css:
 
-5) 7 resurces where downloaded.
+5) 7 resurces where downloaded. \n
  	--> news.ycombinator.com: Type: document, Request Method: GET, Status Code: 200 OK
 	--> news.css?FipHmofufc0acGUN2LQH: Type: stylesheet, Request Method: GET, Status Code: 200 OK
 	--> Y18.gif: Type: gif, Request Method: GET, Status Code: 200 OK (from disk cache)
